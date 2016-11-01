@@ -1,4 +1,4 @@
-% A collection of files and classes to handle planar laser beam profiles and study their interaction with a spherical drop
+%  A collection of files and classes to handle planar laser beam profiles according to ISO 11146 and study their interaction with a spherical drop
 %
 % The code was created during the PhD to study the laser beam profile of the experiments
 %
